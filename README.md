@@ -1,2 +1,2 @@
-# Aplicaci-n-de-Modelos-de-Aprendizaje-Autom-tico-para-la-Detecci-n-Temprana-de-Diabetes
+# Aplicacion-de-Modelos-de-Aprendizaje-Automatico-para-la-Deteccion-Temprana-de-Diabetes
 Estudio computacional retrospectivo con dataset Indias Pima Arizona
